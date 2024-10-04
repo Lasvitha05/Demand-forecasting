@@ -24,7 +24,7 @@ Focus Products: The analysis focuses on three main products:
 Perfect Fitness Perfect Rip Deck
 Nike Men’s CJ Elite 2 TD Football Cleat
 Nike Men’s Dri-FIT Victory Golf Polo
-# Methodology
+
 # Data Preprocessing:
 
 Removed irrelevant columns.
